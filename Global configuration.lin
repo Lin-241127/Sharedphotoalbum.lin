@@ -1,6 +1,6 @@
-Update version=“1.6”
-Update URL=“null”
-Announcement=“
+Update version="1.6"
+Update URL="null"
+Announcement="
 ===(1.6)===
 --主要更新
   1.新增首页公告弹窗，用于更新后的新功能说明。
@@ -9,7 +9,7 @@ Announcement=“
   4.使用指定字体，防止手机平板等设备字体导致文本过大过小的问题。
   5.优化照片显示，将竖屏时的横向照片更改为竖向照片，更充分的预览当日上传的照片。
   6.优化照片预览UI，让界面更美观更简洁。
-”
-Update announcement=“
+"
+Update announcement="
 ===(1.6)===
-暂无更新”
+暂无更新"
